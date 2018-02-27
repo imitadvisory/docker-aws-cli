@@ -1,4 +1,4 @@
-# EB CLI in Docker
+# AWS CLI in Docker in DOcker
 
 Containerized AWS Base and Elastic Beanstalk Command Line Interface on docker in docker git to avoid
 requiring the awscli and awsebcli to be installed on CI machines.

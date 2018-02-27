@@ -6,5 +6,6 @@ RUN apk -v --no-cache add \
     pip install --upgrade \
          awscli==1.14.32 \
          awsebcli==3.12.3
+        
 
 
