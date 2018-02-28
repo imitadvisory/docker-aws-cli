@@ -27,3 +27,6 @@ export AWS_DEFAULT_REGION="<region>"
 ## References
 
 EB CLI Docs: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
+
+
+Copyright 2018 Bryan Vaz <contact@imitadvisory.com>
